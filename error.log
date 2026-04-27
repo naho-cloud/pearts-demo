@@ -1,0 +1,5 @@
+[25-Apr-2026 09:12:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\papi\config\constants.php on line 92
+[25-Apr-2026 09:12:33 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in C:\xampp\htdocs\papi\config\constants.php on line 93
+[25-Apr-2026 09:12:33 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\papi\config\constants.php on line 94
+[25-Apr-2026 09:12:33 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\papi\config\functions.php on line 4
+[25-Apr-2026 09:12:33 Europe/Berlin] QR code generation failed: GD Library not enabled
